@@ -256,7 +256,8 @@ body {
 }
 
 .attribution {
-  position: absolute;
+  /* position: absolute; */
+  margin-top: 2rem;
   bottom: 0;
   font-size: 11px;
   text-align: center;
