@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [NFT Preview Card Github repositor](https://github.com/Praveen-BE/NFT-Preview-Card)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [NFT-Preview-Card](https://praveen-be.github.io/NFT-Preview-Card/)
 
 ## My process
 
